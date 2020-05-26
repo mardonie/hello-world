@@ -1,0 +1,7 @@
+RENCAN KONTEN WPM
+- Javascript
+ * ES6
+ * Framework Javascript
+- PHP Frameworks
+- Interview
+- Vlogs
